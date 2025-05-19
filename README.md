@@ -1,4 +1,4 @@
-# Wood To Table
+# Laminator
 
 This is a Fusion 360 script that generates an Excel table with the necessary cuts for wood laminate, based on the size of each body.
 
@@ -7,6 +7,15 @@ This is a Fusion 360 script that generates an Excel table with the necessary cut
 Example:  
 ![alt text](images/example.png)
 
+## Setup
+
+1. Go to Scripts location
+    ```
+    C:\Users\<USER>\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts
+    ```
+2. Clone the repository
+3. Add the script
+  ![alt text](images/setup.png)
 ## Guide
 
 ### 1. Design your furniture
@@ -20,8 +29,8 @@ As a personal recommendation, consider also modeling the surrounding environment
 
 ![alt text](images/screen1.png)
 
-### 3. Specify the furniture quantity
-* The default value is 1.
+### 3. Run the script
+* Specify the furniture quantity, default value is 1.
 
 ![alt text](images/screen2.png)
 

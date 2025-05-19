@@ -1,6 +1,6 @@
 # Laminator
 
-This is a Fusion 360 script that generates an Excel table with the necessary cuts for wood laminate, based on the size of each body.
+This is a Fusion 360 script that generates an Excel table with the necessary cuts for a wood sheet, based on the size of each body.
 
 > ⚠️ Your designs **must be created using separate bodies**. Each body represents one wood cut.
 

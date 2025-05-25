@@ -56,3 +56,10 @@ Since each wood item is a body, there might be duplicate entries for identical p
 
     Organized version:  
     ![alt text](images/screen6.png)
+
+### 6. Send the table for cutting
+
+Many companies that sell wood panels include cutting services. You simply send them the Excel table, and they will tell you how many sheets you need to purchase.
+
+Alternatively, you can estimate it yourself using this tool:  
+[https://www.cutlistoptimizer.com/](https://www.cutlistoptimizer.com/)
